@@ -1,0 +1,16 @@
+{
+  "name": "Mantenimiento CDLP — App técnico",
+  "short_name": "Mant. CDLP",
+  "description": "Registro de mantenimientos preventivos, correctivos y acompañamientos técnicos en CDLP, con sincronización a la Torre de Control.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efece2",
+  "theme_color": "#000099",
+  "lang": "es",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
